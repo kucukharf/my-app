@@ -1,0 +1,19 @@
+{
+  "ActivityBox.viewAllTitle": "Mostrar todo",
+  "AuthorBox.contactInformation": "Contact information",
+  "Body.CallToActionBtn.Title": "Register Now",
+  "Footer.NameSurnameInputPlaceholde": "name, first name",
+  "Footer.NameSurnameLabel": "NAME",
+  "Footer.NameSurnameWarningMessage": "Zu Gunsten, please provide your first and last name.",
+  "Footer.adresLabel": "speak to",
+  "Footer.contactFormTitle": "Kontaktformulate",
+  "Footer.contactInformationTitle": "Our contact details",
+  "Footer.emailAdressLabel": "EMAIL ADDRESS",
+  "Footer.emailMissingMessage": "Your e-mail is not valid.",
+  "Footer.emailWarningMessage": "Please specify your email address.",
+  "Footer.messageLabel": "Your message",
+  "Footer.messageMissingMessag": "Please don't leave du message Urlaub.",
+  "Footer.phoneLabel": "telephone",
+  "Footer.submitButtonLabel": "Send",
+  "Footer.successMessage": "Vielen Dank, we have received your message."
+}

@@ -1,0 +1,19 @@
+{
+  "ActivityBox.viewAllTitle": "Tout montrer",
+  "AuthorBox.contactInformation": "Coordonnées",
+  "Body.CallToActionBtn.Title": "Inscrivez-vous maintenant",
+  "Footer.NameSurnameInputPlaceholde": "nom, prénom",
+  "Footer.NameSurnameLabel": "Nom",
+  "Footer.NameSurnameWarningMessage": "Zu Gunsten, veuillez indiquer vos prénom et nom de famille.",
+  "Footer.adresLabel": "parlez à",
+  "Footer.contactFormTitle": "Formulation de contact",
+  "Footer.contactInformationTitle": "Nos coordonnées",
+  "Footer.emailAdressLabel": "Adresse e-mail",
+  "Footer.emailMissingMessage": "Votre adresse mail n'est pas valide",
+  "Footer.emailWarningMessage": "Merci de préciser votre adresse e-mail.",
+  "Footer.messageLabel": "Votre message",
+  "Footer.messageMissingMessag": "Merci de ne pas laisser votre message Urlaub.",
+  "Footer.phoneLabel": "Téléphone",
+  "Footer.submitButtonLabel": "",
+  "Footer.successMessage": "Merci beaucoup, nous avons bien reçu votre message."
+}
