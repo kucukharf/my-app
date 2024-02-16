@@ -1,0 +1,45 @@
+{
+  "Body" : {
+    "CallToActionBtn" : {
+      "Title" : "Register Now"
+    }
+  },
+  "errors" : {
+    "INTERNAL_SERVER_ERROR" : {
+      "message" : "null",
+      "code" : "null"
+    }
+  },
+  "ActivityBox" : {
+    "viewAllTitle" : "Alles zeigen"
+  },
+  "Footer" : {
+    "NameSurnameInputPlaceholde" : "name, first name",
+    "NameSurnameWarningMessage" : "Zu Gunsten, please provide your first and last name.",
+    "emailAdressLabel" : "EMAIL ADDRESS",
+    "emailWarningMessage" : "Please specify your email address.",
+    "NameSurnameLabel" : "NAME",
+    "adresLabel" : "speak to",
+    "submitButtonLabel" : "Send",
+    "phoneLabel" : "telephone",
+    "contactInformationTitle" : "Our contact details",
+    "messageLabel" : "Your message",
+    "messageMissingMessag" : "Please don't leave du message Urlaub.",
+    "emailMissingMessage" : "Your e-mail is not valid.",
+    "successMessage" : "Vielen Dank, we have received your message.",
+    "contactFormTitle" : "Kontaktformulate"
+  },
+  "sample" : "null",
+  "PullRequest" : {
+    "key" : "null"
+  },
+  "welcome" : {
+    "title" : "null"
+  },
+  "AuthorBox" : {
+    "contactInformation" : "Contact information"
+  },
+  "CommitedKey" : {
+    "successMessage" : "null"
+  }
+}

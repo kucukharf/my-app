@@ -1,0 +1,45 @@
+{
+  "Body" : {
+    "CallToActionBtn" : {
+      "Title" : "null"
+    }
+  },
+  "errors" : {
+    "INTERNAL_SERVER_ERROR" : {
+      "message" : "There is internal server error.",
+      "code" : "C-1"
+    }
+  },
+  "ActivityBox" : {
+    "viewAllTitle" : "null"
+  },
+  "Footer" : {
+    "NameSurnameInputPlaceholde" : "null",
+    "NameSurnameWarningMessage" : "null",
+    "emailAdressLabel" : "null",
+    "emailWarningMessage" : "null",
+    "NameSurnameLabel" : "null",
+    "adresLabel" : "null",
+    "submitButtonLabel" : "null",
+    "phoneLabel" : "null",
+    "contactInformationTitle" : "null",
+    "messageLabel" : "null",
+    "messageMissingMessag" : "null",
+    "emailMissingMessage" : "null",
+    "successMessage" : "null",
+    "contactFormTitle" : "null"
+  },
+  "sample" : "english sample localized text",
+  "PullRequest" : {
+    "key" : "pr-key"
+  },
+  "welcome" : {
+    "title" : "Welcome, {{userName}}"
+  },
+  "AuthorBox" : {
+    "contactInformation" : "null"
+  },
+  "CommitedKey" : {
+    "successMessage" : "Afferin lan"
+  }
+}
