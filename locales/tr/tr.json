@@ -1,0 +1,45 @@
+{
+  "Body" : {
+    "CallToActionBtn" : {
+      "Title" : "null"
+    }
+  },
+  "errors" : {
+    "INTERNAL_SERVER_ERROR" : {
+      "message" : "null",
+      "code" : "null"
+    }
+  },
+  "ActivityBox" : {
+    "viewAllTitle" : "null"
+  },
+  "Footer" : {
+    "NameSurnameInputPlaceholde" : "null",
+    "NameSurnameWarningMessage" : "null",
+    "emailAdressLabel" : "null",
+    "emailWarningMessage" : "null",
+    "NameSurnameLabel" : "null",
+    "adresLabel" : "null",
+    "submitButtonLabel" : "null",
+    "phoneLabel" : "null",
+    "contactInformationTitle" : "null",
+    "messageLabel" : "null",
+    "messageMissingMessag" : "null",
+    "emailMissingMessage" : "null",
+    "successMessage" : "null",
+    "contactFormTitle" : "null"
+  },
+  "sample" : "null",
+  "PullRequest" : {
+    "key" : "null"
+  },
+  "welcome" : {
+    "title" : "null"
+  },
+  "AuthorBox" : {
+    "contactInformation" : "null"
+  },
+  "CommitedKey" : {
+    "successMessage" : "null"
+  }
+}
